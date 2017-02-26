@@ -1,0 +1,25 @@
+{
+  "name": "homebridge-plugin-helpers",
+  "version": "0.1.0",
+  "description": "Helpers for developing Homebridge plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glavin001/homebridge-plugin-helpers.git"
+  },
+  "keywords": [
+    "homebridge"
+  ],
+  "author": "Glavin Wiechert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Glavin001/homebridge-plugin-helpers/issues"
+  },
+  "homepage": "https://github.com/Glavin001/homebridge-plugin-helpers#readme",
+  "engines": {
+    "node": ">6.0.0"
+  }
+}
